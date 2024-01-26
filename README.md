@@ -9,3 +9,6 @@ A short function to determine whether a variable is truthy or falsy.
 
 ### tipcalculator.js
 A short function to calculate tips depending on the quality of service.
+
+### numberguesser
+A small number guessing game against the computer. Whoever gets closest to the target wins. Points and rounds increase the more you play.
