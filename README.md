@@ -6,3 +6,6 @@ A small program utilising if/else chains within functions to take a user input a
 
 ### truthyfalsy.js
 A short function to determine whether a variable is truthy or falsy.
+
+### tipcalculator.js
+A short function to calculate tips depending on the quality of service.
