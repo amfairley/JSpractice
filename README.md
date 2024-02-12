@@ -12,3 +12,6 @@ A short function to calculate tips depending on the quality of service.
 
 ### numberguesser
 A small number guessing game against the computer. Whoever gets closest to the target wins. Points and rounds increase the more you play.
+
+### stringToList
+A brief explanation of how to extract a list from a string
