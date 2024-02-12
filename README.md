@@ -15,3 +15,6 @@ A small number guessing game against the computer. Whoever gets closest to the t
 
 ### stringToList
 A brief explanation of how to extract a list from a string
+
+### stringExist
+A check to see whether a string exists
