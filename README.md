@@ -18,3 +18,9 @@ A brief explanation of how to extract a list from a string
 
 ### stringExist
 A check to see whether a string exists
+
+### dateToDate
+Converts an ISO 8601 formatted date to a date object
+
+### myTable
+Short script to make a table 
