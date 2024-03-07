@@ -27,3 +27,6 @@ Short script to make a table
 
 ### getterSetter
 Practice using getters and setters in an object to take a meal and price and output the special at a restaurant
+
+### loveMaths
+A HTML, CSS and JavaScript project to produce a simple calculator with good user experience
