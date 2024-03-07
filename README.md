@@ -24,3 +24,6 @@ Converts an ISO 8601 formatted date to a date object
 
 ### myTable
 Short script to make a table 
+
+### getterSetter
+Practice using getters and setters in an object to take a meal and price and output the special at a restaurant
